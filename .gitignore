@@ -1,6 +1,6 @@
-/Users/ilariatiddi/Documents/KMi/Apps/secklow/*.pyc
-/Users/ilariatiddi/Documents/KMi/Apps/secklow/config.json
-/Users/ilariatiddi/Documents/KMi/Apps/secklow/credentials.json
-/Users/ilariatiddi/Documents/KMi/Apps/secklow/episodes/*
-/Users/ilariatiddi/Documents/KMi/Apps/secklow/old_stuff/*
-/Users/ilariatiddi/Documents/KMi/Apps/secklow/output/*
+*.pyc
+config.json
+credentials.json
+episodes/*
+old_stuff/*
+output/*
