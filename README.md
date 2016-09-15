@@ -7,6 +7,7 @@ Usage
 python2.7 run.py <audiofile> <configfile>
 
 Given an audio_file:
+
 1) reduce audio to mono, 22kh
 
 2) chunk based on silence and export chunks 
