@@ -18,6 +18,7 @@ def read_config_file(config_file):
     
 def create_dirs(episode):
     try:
+        os.mkdir("output")
         os.mkdir("output/"+episode)
         os.mkdir("output/"+episode+"/chunks")
         os.mkdir("output/"+episode+"/raws")
